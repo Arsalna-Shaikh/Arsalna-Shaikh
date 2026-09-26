@@ -22,28 +22,28 @@ I like turning abstract ideas, whether it's how a sorting algorithm actually beh
 A multi-agent, AI-powered resume optimization platform using LangChain, Groq LLM, and FAISS — combining resume-job matching, ATS scoring, and an AI-driven interview prep assistant.
 
 **Highlights:**
-Multi-agent pipeline (ingestion, embedding, advisory, PDF-generation, and ATS-analysis agents) orchestrated via LangGraph
-Hybrid RAG system (FAISS + BM25) powering a domain-specific interview-prep chatbot
-Automated, tailored CV generation with LLM-based content optimization
-Mock-interview module with AI-based response analysis and feedback
+- Multi-agent pipeline (ingestion, embedding, advisory, PDF-generation, and ATS-analysis agents) orchestrated via LangGraph
+- Hybrid RAG system (FAISS + BM25) powering a domain-specific interview-prep chatbot
+- Automated, tailored CV generation with LLM-based content optimization
+- Mock-interview module with AI-based response analysis and feedback
 
 **💬 [ConvoCore](https://github.com/Arsalna-Shaikh/ConvoCore)**
 A WhatsApp-inspired real-time chat app (React, Node.js, Socket.IO, PostgreSQL) with a BCNF-normalized database enforced via constraints, triggers, and views.
 
 **Highlights:**
-Real-time messaging with group chats & reactions
-JWT-based authentication
-BCNF-normalized database design with constraints, triggers, and SQL views
+- Real-time messaging with group chats & reactions
+- JWT-based authentication
+- BCNF-normalized database design with constraints, triggers, and SQL views
 
 
 **📊 [AlgoVisualizer](https://github.com/Arsalna-Shaikh/AlgoVisualizer)**
 An interactive C++/Qt application visualizing 7 core data structures and 10+ algorithms with real-time, color-coded, step-by-step animations.
 
 **Highlights:**
-Step-by-step execution controls (play/pause/step/reset) with adjustable animation speed
-Stack, Queue, and Deque modules with custom and randomized data input
-Graph Visualizer with BFS, DFS, and Dijkstra's traversal animations
-Time and space complexity documented for every algorithm
+- Step-by-step execution controls (play/pause/step/reset) with adjustable animation speed
+- Stack, Queue, and Deque modules with custom and randomized data input
+- Graph Visualizer with BFS, DFS, and Dijkstra's traversal animations
+- Time and space complexity documented for every algorithm
 
 ### 🏆 Achievements
 - 1st Position, DataQuest Hackathon, TECHFEST, NEDUET
