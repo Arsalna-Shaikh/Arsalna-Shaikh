@@ -17,7 +17,7 @@ I like turning abstract ideas, whether it's how a sorting algorithm actually beh
 
 ### 🛠 Featured Projects
 
-**🤖 [ARIA — Agentic Resume Intelligence Analyzer](https://github.com/Arsalna-Shaikh/Agentic-Resume-Intelligence-Analyzer-ARIA)**
+### **🤖 [ARIA — Agentic Resume Intelligence Analyzer](https://github.com/Arsalna-Shaikh/Agentic-Resume-Intelligence-Analyzer-ARIA)**
 
 🥇 1st Position, DataQuest Hackathon, NEDUET
 A multi-agent, AI-powered resume optimization platform using LangChain, Groq LLM, and FAISS — combining resume-job matching, ATS scoring, and an AI-driven interview prep assistant.
@@ -28,7 +28,7 @@ A multi-agent, AI-powered resume optimization platform using LangChain, Groq LLM
 - Automated, tailored CV generation with LLM-based content optimization
 - Mock-interview module with AI-based response analysis and feedback
 
-**💬 [ConvoCore](https://github.com/Arsalna-Shaikh/ConvoCore)**
+### **💬 [ConvoCore](https://github.com/Arsalna-Shaikh/ConvoCore)**
 
 A WhatsApp-inspired real-time chat app (React, Node.js, Socket.IO, PostgreSQL) with a BCNF-normalized database enforced via constraints, triggers, and views.
 
@@ -38,7 +38,7 @@ A WhatsApp-inspired real-time chat app (React, Node.js, Socket.IO, PostgreSQL) w
 - BCNF-normalized database design with constraints, triggers, and SQL views
 
 
-**📊 [AlgoVisualizer](https://github.com/Arsalna-Shaikh/Algo-Visualizer)**
+### **📊 [AlgoVisualizer](https://github.com/Arsalna-Shaikh/Algo-Visualizer)**
 
 An interactive C++/Qt application visualizing 7 core data structures and 10+ algorithms with real-time, color-coded, step-by-step animations.
 
