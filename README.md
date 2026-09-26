@@ -3,10 +3,11 @@
 🎓 Computer Science & Information Technology Undergraduate (AI Specialization) at NED University of Engineering & Technology
 💡 Passionate about Agentic AI, Machine Learning, and Deep Learning — I enjoy building systems that combine solid engineering fundamentals with real, applied AI.
 
-I like turning abstract ideas — whether it's how a sorting algorithm actually behaves, or how a group of AI agents can collaborate — into something you can see and interact with.
+I like turning abstract ideas, whether it's how a sorting algorithm actually behaves, or how a group of AI agents can collaborate, into something you can see and interact with.
 
 ### 🚀 Technical Skills
 **Languages:** Python · C/C++ · SQL
+
 **Technologies & Tools:** PostgreSQL · MySQL · Qt Framework · Git & GitHub · Wordpress
 
 ### 📚 Currently Learning
