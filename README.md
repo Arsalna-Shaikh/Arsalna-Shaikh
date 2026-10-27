@@ -49,8 +49,8 @@ An interactive C++/Qt application visualizing 7 core data structures and 10+ alg
 - Time and space complexity documented for every algorithm
 
 ### 🏆 Achievements
-- 1st Position, DataQuest Hackathon, TECHFEST, NEDUET
-- 2nd Position, "Code in the Dark" Competition, TECHFEST, NEDUET
+- 1st Position, DataQuest Hackathon, TECHFEST2025, NEDUET
+- 2nd Position, "Code in the Dark" Competition, TECHFEST2025, NEDUET
 
 ### 📫 Connect With Me
 [LinkedIn](https://linkedin.com/in/arsalna-shaikh-53a236321)
