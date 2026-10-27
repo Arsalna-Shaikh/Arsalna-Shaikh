@@ -17,6 +17,20 @@ I like turning abstract ideas, whether it's how a sorting algorithm actually beh
 
 ### 🛠 Featured Projects
 
+### **⚡ [Bijli-Insight Pakistan](https://github.com/Arsalna-Shaikh/Bijli-Insight-Pakistan)**
+🏁 2nd Position, Hackinsight Hackathon, NEDUET
+An end-to-end energy intelligence platform for Pakistan's power grid, combining data engineering, quantile load forecasting, and a policy-grounded RAG assistant, delivered through an interactive Streamlit dashboard. Built as a team project.
+
+Highlights:
+
+* 3-layer DuckDB analytical warehouse with SHA-256 verified raw data and leakage-safe lag features
+* Autonomous Data Quality Agent using a FIX / FILL / FLAG protocol with a full audit log
+* LightGBM quantile forecaster (q10 / q50 / q90) with non-crossing uncertainty bounds, benchmarked against a t-168 persistence baseline
+* RAG insight agent (ChromaDB) grounded in NEECA and NEPRA documents, with citations and and Web Search fallback to prevent hallucinations
+* Hourly Prefect-orchestrated pipeline feeding a multi-tab Streamlit app with a tariff and bill calculator
+
+**Tech:** Python · DuckDB · LightGBM · ChromaDB · Prefect · Streamlit · Vercel
+
 ### **🤖 [ARIA — Agentic Resume Intelligence Analyzer](https://github.com/Arsalna-Shaikh/Agentic-Resume-Intelligence-Analyzer-ARIA)**
 
 🥇 1st Position, DataQuest Hackathon, NEDUET
@@ -51,6 +65,7 @@ An interactive C++/Qt application visualizing 7 core data structures and 10+ alg
 ### 🏆 Achievements
 - 1st Position, DataQuest Hackathon, TECHFEST2025, NEDUET
 - 2nd Position, "Code in the Dark" Competition, TECHFEST2025, NEDUET
+- 2nd Position, Hackinsight Hackathon, TECHFEST2026, NEDUET
 
 ### 📫 Connect With Me
 [LinkedIn](https://linkedin.com/in/arsalna-shaikh-53a236321)
